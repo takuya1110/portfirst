@@ -1,0 +1,10 @@
+.content h1 {
+  text-align: center;
+}
+.content a {
+  text-align: center;
+  display: block;
+}
+.header-img{
+  width:100%;
+}
